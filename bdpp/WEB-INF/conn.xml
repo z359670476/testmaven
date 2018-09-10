@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbmsg>
+	<dbinfo>
+		<data>ORCL</data> <!-- ORCL/MYSQL -->
+		<drivername>oracle.jdbc.driver.OracleDriver</drivername>
+		<sConnStr>jdbc:oracle:thin:@43.254.3.179:1521:predb</sConnStr><!--uat4环境：192.168.3.14:1521:predb-->
+		<username>trptdev</username> 
+		<password>trptdev</password>
+	</dbinfo>
+</dbmsg>
