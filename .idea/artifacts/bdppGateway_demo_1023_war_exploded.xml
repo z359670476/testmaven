@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bdppGateway-demo-1023:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bdppGateway_demo_1023_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bdppGateway-demo-1023" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="bdppGateway-demo-1023/web/Web" />
+    </root>
+  </artifact>
+</component>
